@@ -1,4 +1,5 @@
 # first_task
 
-| 1 | 2 |
-| I made changes | Linda Lice |
+- [x] I created new repo
+- [x] I made changes using Markdown syntax
+- [x] I am Linda Lice
